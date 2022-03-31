@@ -43,23 +43,24 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-* https://studio.code.org/courses
-* https://www.w3schools.com/js/default.asp
-* https://www.designwizard.com/blog/design-trends/colour-combination
+    * https://studio.code.org/courses
+    * https://www.w3schools.com/js/default.asp
+    * https://www.designwizard.com/blog/design-trends/colour-combination
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+    The main concern I have after I submitted my prework assignment is that I do not know how to connect my JavaScript code with my HTML file. This is given that I tried to work on the optional feature of giving the player 3 strikes and I was able to make the JavaScript code work, however I couldn’t display it on the game screen, even though I made some research on how to do it. Therefore, I am wondering if we are going to learn how to link files of different languages since I think it is an essential aspect of web development.
 
-If I had more time to work on this project, I would spend them on refining the game by making the code I wrote more efficient. Also, I would spend time adding more features given that this game, in my opinion, still lacking some basic elements. Some of the features I have been thinking on adding to this game if I had more time are:
-* Adding a timer for the player to guess
-* Giving the user multiple attempts to guess a pattern
-* Creating multiple levels where the time for the player to guess is shorter, the pattern is longer and plays faster, and the number of buttons increases with the level
-* Adding a multiplayer mode
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
+    
+    If I had more time to work on this project, I would spend them on refining the game by making the code I wrote more efficient. Also, I would spend time adding more features given that this game, in my opinion, still lacking some basic elements. Some of the features I have been thinking on adding to this game if I had more time are:
+    * Adding a timer for the player to guess
+    * Giving the user multiple attempts to guess a pattern
+    * Creating multiple levels where the time for the player to guess is shorter, the pattern is longer and plays faster, and the number of buttons increases with the level
+    * Adding a multiplayer mode
 
 
 ## Interview Recording URL Link
