@@ -34,12 +34,8 @@ The following **optional** features are implemented:
 
 
 ## Video Walkthrough (GIF)
+![ezgif-1-ff0dc30af1](https://user-images.githubusercontent.com/59422107/161269002-9bc5ac54-ed7c-425d-8cc0-3c69e55efbbf.gif)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
