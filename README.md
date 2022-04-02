@@ -44,7 +44,8 @@ The following **optional** features are implemented:
     * https://www.designwizard.com/blog/design-trends/colour-combination
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+   While I was creating this submission, I faced multiple challenges. I think the main challenge I encountered was working on the Checking the user’s response section, especially the guess function, of the game given that it was a long section that combined everything we had to do in the previous sections and, by taking into account that I have very little basic knowledge of HTML and CSS with the fact that the last time I programmed in JavaScript was during my high school senior year, I think it was very challenging to put everything to make the game work correctly in both logic and design. Also, this was my first time using audioContext in JavaScript, therefore I found it harder than I thought it would be, considering that I had basic knowledge on how to apply logic on my code but in another programming language. I was able to overcome this challenge by doing some research about how audioContext works on JavaScript, and once I found the information I needed, I was able to sketch a diagram and trace my code to make sure the game works correctly.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
